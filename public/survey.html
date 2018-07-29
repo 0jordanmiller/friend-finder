@@ -117,7 +117,8 @@
 
             $.get('/api/friends', function (data) {
                 var bestMatchIndex= data[data[data.length - 1].bestMatchIndex];
-                $("#best-match-name").append(bestMatchIndex.name);
+                $("#best-match-name").empty();
+                $("#best-match-name").append("You matched with " + bestMatchIndex.name);
                 $("#best-match-photo").attr('src', bestMatchIndex.photo);
                 $('#mymodal').modal('show');
 
