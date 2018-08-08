@@ -5,7 +5,7 @@ var path = require('path');
 
 var app = express();
 
-var PORT = process.env.PORT || 8080;
+var PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
@@ -16,7 +16,7 @@ var htmlRoutes = require('./routing/htmlRoutes')
 
 app.use('/', htmlRoutes)
 app.use('/api/friends', apiRoutes);
-  
-app.listen(PORT, function() {
+
+app.listen(PORT, function () {
     console.log('server listening on: http://localhost:' + PORT)
 })
