@@ -1,7 +1,7 @@
 var object = [
     {
-        "name": "Ahmed",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Buscemi_2009_portrait.jpg/220px-Steve_Buscemi_2009_portrait.jpg",
+        "name": "Bruce Lee",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Bruce_Lee_1973.jpg",
         "scores": [
             1,
             1,
@@ -16,8 +16,8 @@ var object = [
         ]
     },
     {
-        "name": "Broface",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Buscemi_2009_portrait.jpg/220px-Steve_Buscemi_2009_portrait.jpg",
+        "name": "Jackie Chan",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Jackie_Chan_July_2016.jpg",
         "scores": [
             2,
             1,
@@ -32,8 +32,8 @@ var object = [
         ]
     },
     {
-        "name": "Stella",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Buscemi_2009_portrait.jpg/220px-Steve_Buscemi_2009_portrait.jpg",
+        "name": "Tom Cruise",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tom_Cruise_by_Gage_Skidmore.jpg/800px-Tom_Cruise_by_Gage_Skidmore.jpg",
         "scores": [
             2,
             5,
@@ -48,8 +48,8 @@ var object = [
         ]
     },
     {
-        "name": "Makoto",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Buscemi_2009_portrait.jpg/220px-Steve_Buscemi_2009_portrait.jpg",
+        "name": "Kobe",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/0/05/Kobe_Bryant_warming_up.jpg",
         "scores": [
             5,
             3,
@@ -64,8 +64,8 @@ var object = [
         ]
     },
     {
-        "name": "Vlad",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Buscemi_2009_portrait.jpg/220px-Steve_Buscemi_2009_portrait.jpg",
+        "name": "Jason Staham",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/5/50/Jason_Statham_2014.jpg",
         "scores": [
             4,
             3,
@@ -80,8 +80,8 @@ var object = [
         ]
     },
     {
-        "name": "Greg",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Buscemi_2009_portrait.jpg/220px-Steve_Buscemi_2009_portrait.jpg",
+        "name": "Jessica Simpson",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Jessica_Simpson_Joining_Forces_with_the_Rockies_April_2011_%28cropped%29.jpg",
         "scores": [
             2,
             2,
@@ -96,8 +96,8 @@ var object = [
         ]
     },
     {
-        "name": "Jing",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Buscemi_2009_portrait.jpg/220px-Steve_Buscemi_2009_portrait.jpg",
+        "name": "Vladimir Putin",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Vladimir_Putin_%282017-07-08%29_%28cropped%29.jpg",
         "scores": [
             5,
             4,
@@ -112,8 +112,8 @@ var object = [
         ]
     },
     {
-        "name": "Bob",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Buscemi_2009_portrait.jpg/220px-Steve_Buscemi_2009_portrait.jpg",
+        "name": "Rachel McAdams",
+        "photo": "https://en.wikipedia.org/wiki/Rachel_McAdams#/media/File:Rachel_McAdams_by_Gage_Skidmore.jpg",
         "scores": [
             5,
             3,
@@ -128,8 +128,8 @@ var object = [
         ]
     },
     {
-        "name": "Connie",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Buscemi_2009_portrait.jpg/220px-Steve_Buscemi_2009_portrait.jpg",
+        "name": "Elon Musk",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg",
         "scores": [
             3,
             5,
@@ -144,8 +144,8 @@ var object = [
         ]
     },
     {
-        "name": "Dark-Smoke-Puncher",
-        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Steve_Buscemi_2009_portrait.jpg/220px-Steve_Buscemi_2009_portrait.jpg",
+        "name": "Jennifer Aniston",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Jennifer_Aniston_2011_%28cropped%29.jpg",
         "scores": [
             1,
             1,
